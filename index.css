@@ -9,8 +9,8 @@ body {
 
 input:focus {
   outline: none;
-  border-color: #3b82f6; /* Tailwind's blue-500 */
-  box-shadow: 0 0 0 1px #3b82f6;
+  border-color: #2be413; /* Tailwind's blue-500 */
+  box-shadow: 0 0 0 1px #82f555;
 }
 
 button {
